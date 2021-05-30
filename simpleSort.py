@@ -1,5 +1,5 @@
 def simpleSort(arr):
-#The hilight is how we can swap variables in python, without creating temporary variable
+#The highlight is how we can swap variables in python, without creating temporary variable
     n = len(arr)
     for i in range(n):
         j = 0
